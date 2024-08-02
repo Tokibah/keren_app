@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743765556357",
+    "project_id": "keren-448da",
+    "storage_bucket": "keren-448da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743765556357:android:3ecd9d63e7ad96eab8fdec",
+        "android_client_info": {
+          "package_name": "com.example.keren_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG2srNA7YMrJi5IfpOYsuAFFiu9QeKu6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
