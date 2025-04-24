@@ -1,16 +1,3 @@
-# keren_app
+# Keren
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Keren is a training app developed using Flutter that showcases a wide range of widgets, features, and integrations. It includes essential navigation components like OrientationBuilder, NavigationBar, NavigationRail, and IndexedStack, as well as UI elements such as SliverAppBar, segmentedButton, autoComplete, reorderableListView, Banner, ImageFiltered, Stack, and more. The app makes use of page transitions, pageView.builder, and advanced layout handling through widgets like draggableScrollableSheet, Wrap, ClipOval, alertDialog, and tabPageSelector. Keren is powered by key Flutter plugins including flutter_launcher_icons, flutter_screenutil, provider, google_fonts (Montserrat), and connects to Firebase services like firebase_core, cloud_firestore, firebase_storage, and firebase_messaging. It also integrates home_widget for countdown functionality, geolocator, geocoding for location features, image_picker for media input, and Dio for API calls. Additionally, the app implements a variety of inputs and controls like TextField, slider, radioButton, dropdownButton, checkbox, switch, and more, along with features like fl_chart, shared_preferences, flutter_sound, flutter_rating_bar, url_launcher, share_plus, sensors_plus, and appinio_video_player. Although the app leverages a rich set of dependencies and even connects to a Docker API for dynamic image loading, a critical lesson was learned: excessive reliance on third-party packages can lead to major build issues. Despite a full day of debugging, the app encountered persistent dependency conflicts that ultimately prevented it from running successfully—highlighting the importance of dependency management and stability in Flutter development.
